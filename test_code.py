@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 df = pd.read_csv("uzka_pro_orT01.csv")
 
 # Plot time-energy graph
+# nova radka
 plt.plot(df["time"], df["KINETIC ENERGY"])
 plt.xlabel("Time")
 plt.ylabel("Energy")
