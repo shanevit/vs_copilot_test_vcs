@@ -1,0 +1,15 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pyzw
+
+*.csv
+
+# Virtual Environment
+venv*/
+# Visual Studio Code
+.vscode/
